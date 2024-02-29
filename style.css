@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+
+.navbar{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    height: 60px;
+    overflow-y: hidden;
+}
+
+.nav-link-topo{
+    color: black;
+    padding: 32px 30px;
+    margin: 10px;
+}
+
+.nav-link-topo:hover{
+    color: white;
+    background-color: #625DF5;
+    padding: 32px 30px;
+    /* padding: 18px; */
+    margin: 10px;
+}
+
+#inicio{
+    background-color: #393955;
+    color: white;
+}
+
+#inicio  p{
+    padding: 0px 20px;
+    margin: 0px;
+}
+
+#inicio a{
+    color: white;
+}
+
+#inicio a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.b1{
+    margin: 30px 0px 5px 20px;
+    padding: 10px 25px;
+    background-color: #625DF5;
+
+}
+
+#titulo{
+    font-size: 70px;
+    padding: 20px;
+}
+
+#imgUm{
+    padding: 0px;
+    width: 670px;
+    height: 600px;
+}
+
+.seg{
+    padding: 70px 80px 50px 80px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.nothing{
+    background-color: #F9F6F1;
+    padding: 20px;
+}
+
+.nothing h2{
+    margin: 0px;
+    padding: 5px;
+}
+
+.seg1{
+    padding: 80px 0px 0px 0px;
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+    font-size: 25px;
+}
+#but{
+    text-align: center;
+    margin: 20px;
+    padding: 20px 40px 40px 40px;
+   
+}
+.b2 {
+    background-color: white;
+    border: 2px solid #393955;
+    padding: 10px 15px;
+    border-radius: 10px;
+
+}
+
+.b2:hover{
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-size: 17px;
+
+}
+
+.b2 a{
+    text-decoration: none; 
+    color: black;
+}
+
+#but1{
+    font-size: 35px;
+    width: 500px;
+}
+
+#bot a{
+    color: white;
+}
+
+#bot a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+#final{
+    background-color: #393955; 
+    color: white;
+    margin: 0px;
+    padding: 40px;
+}
+
+#final a{
+    color: white;
+    text-decoration: none;
+}
+
+.parg{
+    font-size: 20px;
+    width: 400px;
+}
+
+
